@@ -1,14 +1,14 @@
 # Diabetes_prevalence
 
 
-
+![diabete_pic](https://user-images.githubusercontent.com/56441231/187775769-030a78c0-85d5-4036-96e5-fb22f39fca95.png)
 ## Learning About Our Dataset   
 
 Diabetes The increasing prevalence of diabetes in the 21st century is a problem. Patients have symptoms like  unusual thirst frequent urination extreme fatigue Diabetes can also lead to more serious complications like stroke, blindness, loss of limbs, kidney failure, and even heart attack.  
 
 Discovery of Insulin In the 1920s, insulin was discovered by Frederick Banting. Most of the food we eat is turned to glucose, or sugar, for our bodies to use for energy. The pancreas, an organ near the stomach, makes a hormone called insulin, to help glucose get into the cells of our bodies. When you have diabetes, your body either doesn't make enough insulin or can't use its own insulin as well as it should. And this causes sugars to build-up in the blood.  With Banting's discovery of insulin, pharmaceutical companies began large-scale production of insulin. 
 
-![Diabetes](https://user-images.githubusercontent.com/56441231/187775214-1cb59170-a970-437c-9b9b-9a05393d9ac3.png)
+![Diabetes](https://user-images.githubusercontent.com/56441231/187775214-1cb59170-a970-437c-9b9b-9a05393d9ac3.png) 
 
 Although it doesn't cure diabetes, it's one of the biggest discoveries in medicine. When it came, it was like a miracle.  Challenges with Insulin The default method of administration is by a needle, multiple times a day. Insulin pumps are a more recent invention. These are insulin delivering devices that are semi-permanently connected to a diabetic's body.  The Future: Oral Insulin? Wouldn't it be great if diabetics could take insulin orally? This is an active area of research, but historically the roadblock is getting insulin through the stomach's thick lining.  
 
