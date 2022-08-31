@@ -12,6 +12,8 @@ Discovery of Insulin In the 1920s, insulin was discovered by Frederick Banting. 
 
 Although it doesn't cure diabetes, it's one of the biggest discoveries in medicine. When it came, it was like a miracle.  Challenges with Insulin The default method of administration is by a needle, multiple times a day. Insulin pumps are a more recent invention. These are insulin delivering devices that are semi-permanently connected to a diabetic's body.  The Future: Oral Insulin? Wouldn't it be great if diabetics could take insulin orally? This is an active area of research, but historically the roadblock is getting insulin through the stomach's thick lining.  
 
+![signs and sym of diabetes](https://user-images.githubusercontent.com/56441231/187776825-e77fbc04-6913-4dd9-ad10-112c5fef7f1b.png)
+
 ### Our dataset: 
 Auralin and Novodra Trials We will be looking at the phase two clinical trial data of 350 patients for a new innovative oral insulin called Auralin - a proprietary capsule that can solve this stomach lining problem.  Phase two trials are intended to:  Test the efficacy and the dose response of a drug Identify adverse reactions In this trial, half of the patients are being treated with Auralin, and the other 175 being treated with a popular injectable insulin called Novodra. By comparing key metrics between these two drugs, we can determine if Auralin is effective.  
 
