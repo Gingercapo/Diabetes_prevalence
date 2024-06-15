@@ -1,6 +1,5 @@
 # Diabetes_prevalence
 
-
 ![diabete_pic](https://user-images.githubusercontent.com/56441231/187775769-030a78c0-85d5-4036-96e5-fb22f39fca95.png)
 ## Learning About Our Dataset   
 
@@ -21,8 +20,8 @@ Auralin and Novodra Trials We will be looking at the phase two clinical trial da
 Healthcare data is notorious for its errors and disorganization, and its clinical trial data is no exception. For example, human errors during the patient registration process mean we can have  duplicate data missing data inaccurate data You're going to take the first step in fixing these issues by assessing this data sets quality and tidiness, and then cleaning all of these issues using Python and Pandas. Our goal is to create a trustworthy analysis.  
 
 ### DISCLAIMER: 
-This Data Isn't "Real" The Auralin and Novodra are not real insulin products. This clinical trial data was fabricated for the sake of this course. When assessing this data, the issues that you'll detect (and later clean) are meant to simulate real-world data quality and tidiness issues.  That said:  This dataset was constructed with the consult of real doctors to ensure plausibility. This clinical trial data for an alternative insulin was inspired and closely mimics this real clinical trial for an inhaled insulin called Afrezza. 
+This Data Isn't "Real" The Auralin and Novodra are not real insulin products. This clinical trial data was fabricated for the sake of this Project. When assessing this data, the issues that you'll detect (and later clean) are meant to simulate real-world data quality and tidiness issues.  That said:  This dataset was constructed with the consult of real doctors to ensure plausibility. This clinical trial data for an alternative insulin was inspired and closely mimics this real clinical trial for an inhaled insulin called Afrezza. 
 
 - The data quality issues in this dataset mimic real, common data quality issues in healthcare data. These issues impact the quality of care, patient registration, and revenue. The patients in this dataset were created using this fake name generator and do not include real names, addresses, phone numbers, emails, etc. 
 
-- The video above is only a short preview of the dataset that is intended to motivate. If you're not comfortable with the meanings of each column in each table, please revisit the Visual Assessment: Acquaint Yourself page in Lesson 3: Assessing Data. Descriptions of each column as well as the Auralin clinical trial, as a whole, are presented there.
+- image is preview of the dataset that is intended to motivate. If you're not comfortable with the meanings of each column in each table.
